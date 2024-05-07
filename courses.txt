@@ -1,2 +1,4 @@
 Javascript 1
 Cat Fundamentals
+Virtualization Fundamentals
+Linux Essentials
